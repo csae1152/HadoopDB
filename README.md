@@ -10,3 +10,5 @@ There tend to be two schools of thought regarding what technology to use for big
 
 Introduction
 ============
+
+The analytical database market currently consists of $4 billion of the $15 billion database software market.
