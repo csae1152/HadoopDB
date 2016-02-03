@@ -12,3 +12,9 @@ Introduction
 ============
 
 The analytical database market currently consists of $4 billion of the $15 billion database software market.
+
+HadoopDB tries to melt together both worlds: The relational approach and the Map Reduce approach.
+
+We are aware of that classical Hadoop is a batch oriented technology.
+
+
