@@ -19,4 +19,9 @@ We are aware of that classical Hadoop is a batch oriented technology.
 
 Parallel databases have been proven to scale really well into the tens of nodes (near linear scalability is not common). However, there are very few known parallel database deployments consisting of more than hundred nodes.
 
+MapReduce
+==========
+
+MapReduce was introduced by Dean et. in 2004.
+
 
