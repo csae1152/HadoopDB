@@ -24,4 +24,6 @@ MapReduce
 
 MapReduce was introduced by Dean et. in 2004.
 
+MapReduce processes data distributed (and replicated) across many nodes in a shared-nothing cluster via three basic operations. First, a set of Map tasks are processed in parallel by each node in the cluster without communicating with other nodes. Next, data is repartioned across all nodes of the cluster.
+
 
